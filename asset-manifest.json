@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/reactandr-data/static/css/main.073c9b0a.css",
-    "main.js": "/reactandr-data/static/js/main.2900cd13.js",
-    "static/js/787.5f0a8a20.chunk.js": "/reactandr-data/static/js/787.5f0a8a20.chunk.js",
-    "static/media/logo.svg": "/reactandr-data/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/reactandr-data/static/js/main.d0070087.js",
     "index.html": "/reactandr-data/index.html",
-    "main.073c9b0a.css.map": "/reactandr-data/static/css/main.073c9b0a.css.map",
-    "main.2900cd13.js.map": "/reactandr-data/static/js/main.2900cd13.js.map",
-    "787.5f0a8a20.chunk.js.map": "/reactandr-data/static/js/787.5f0a8a20.chunk.js.map"
+    "main.d0070087.js.map": "/reactandr-data/static/js/main.d0070087.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2900cd13.js"
+    "static/js/main.d0070087.js"
   ]
 }
