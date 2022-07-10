@@ -1,12 +1,12 @@
 import React from "react"
-class TodoContainer extends React.Component {
+class Header extends React.Component {
   render() {
     return (
-      <div>
-        <h1>Hello from Create React App</h1>
+      <React.Fragment>
+        <h1>Hello!</h1>
         <p>I am in a React Component!</p>
-      </div>
+      </React.Fragment>
     )
   }
 }
-export default TodoContainer
+export default Header
