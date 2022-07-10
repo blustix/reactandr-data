@@ -2,9 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import Header from "./components/Header"
+import Clock from "./Components/Clock"
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const element = <Header/>;
 root.render(element);
+root.render(<Clock />);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
