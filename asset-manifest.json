@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reactandr-data/static/js/main.e4e8ec71.js",
+    "main.js": "/reactandr-data/static/js/main.d5c75940.js",
     "index.html": "/reactandr-data/index.html",
-    "main.e4e8ec71.js.map": "/reactandr-data/static/js/main.e4e8ec71.js.map"
+    "main.d5c75940.js.map": "/reactandr-data/static/js/main.d5c75940.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4e8ec71.js"
+    "static/js/main.d5c75940.js"
   ]
 }
